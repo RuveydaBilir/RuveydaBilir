@@ -1,2 +1,2 @@
 ### Hi :sparkles: I'm Rüveyda.
-I am a sophomore Computer Science student interested in cybersecurity.
+I am a junior Computer Science student interested in cybersecurity.
